@@ -1,5 +1,13 @@
 # Mechanical Behavior of Materials
-This repo includes lecture notes and materials from my Mechanical Behavior of Materials course taught by [Professor Scott Bunch](https://www.bu.edu/eng/profile/scott-bunch/) at Boston University (ME 582), in order of topics covered. Note that this is an ongoing course and the readme will be updated throughout the semester. The goal is to have notes & study guides added weekly.
+This repo includes study materials and some programs from my Mechanical Behavior of Materials course taught by [Professor Scott Bunch](https://www.bu.edu/eng/profile/scott-bunch/) at Boston University (ME 582). 
 
-**Topics Include:**
-- [Topic 1]()
+**Notes Include:**
+- [Mechanical Behavior of Materials Overview](https://github.com/leahgaeta/Mechanical-Behavior-of-Materials/raw/main/Mechanical%20Behavior%20of%20Materials%20Overview.pdf)
+- [Structures, Defects, and Deformations of Materials Overview](https://github.com/leahgaeta/Mechanical-Behavior-of-Materials/raw/main/Structures%20Defects%20Deformation.pdf)
+- [Mechanical Testing Overview](https://github.com/leahgaeta/Mechanical-Behavior-of-Materials/raw/main/Mechanical%20Testing.pdf)
+- [Reference Sheet I](https://github.com/leahgaeta/Mechanical-Behavior-of-Materials/raw/main/Reference%20Sheet%201.pdf)
+- [Reference Sheet II](https://github.com/leahgaeta/Mechanical-Behavior-of-Materials/raw/main/Reference%20Sheet%202.pdf)
+
+**Programs Include:**
+- [Finding principal normal and shear stresses and their directions](https://github.com/leahgaeta/Mechanical-Behavior-of-Materials/blob/main/Prin_norm_shear_direction.m)
+- [Finding shear stress experienced in a thick-walled tube](https://github.com/leahgaeta/Mechanical-Behavior-of-Materials/blob/main/thick_walled_tube.m)
